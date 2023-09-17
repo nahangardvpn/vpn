@@ -1,2 +1,2 @@
 vless://ce8dda16-20d4-4092-a60a-b07d3eb4808d@37.27.8.39:46450?type=tcp&security=reality&fp=firefox&pbk=RQBPZwgOsCiMitVWZmRD563M8GA9vmveLXNYvZhujF8&sni=discord.com&flow=xtls-rprx-vision&sid=693ab36f&spx=%2Fdownload#reality1
-vless://44e474ca-8f25-4896-be8c-c2b466727e90@89.58.24.60:22460?type=tcp&security=reality&fp=firefox&pbk=GOJZBttCvspDxzQ_WbA5bx9t7JjfF1OF-Z_AlRb-MHs&sni=discord.com&flow=xtls-rprx-vision&sid=c2eaa72a&spx=%2Fdownload#reality3
+vless://44e474ca-8f25-4896-be8c-c2b466727e90@89.58.24.60:22460?type=tcp&security=reality&fp=firefox&pbk=GOJZBttCvspDxzQ_WbA5bx9t7JjfF1OF-Z_AlRb-MHs&sni=discord.com&flow=xtls-rprx-vision&sid=c2eaa72a&spx=%2Fdownload#reality2
