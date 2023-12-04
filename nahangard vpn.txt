@@ -1,10 +1,6 @@
-vless://e916c9ca-e7d2-4978-91ea-3fa2c2957e7d@195.128.102.239:15570?type=tcp&security=reality&fp=firefox&pbk=lZyG1Qq3IAPISsv9e7cL5SkVtIZxXcDcPbbHQ1IR3zo&sni=telewebion.com&flow=xtls-rprx-vision&sid=4c423961&spx=%2F#1
-vless://a7490ef8-974a-46b6-bab8-1804f5cb066d@195.128.102.239:40091?type=tcp&security=reality&fp=firefox&pbk=96eT8lXlXmF9TekfrUGRyyE3F06_2oRJc8HHGNQO6kI&sni=nixos.org&flow=xtls-rprx-vision&sid=213162ee&spx=%2F#2
-vless://0d2283c4-d847-439f-b150-41702e3a2052@195.128.102.239:17058?type=tcp&security=reality&fp=firefox&pbk=x1zvQNJDESh5X8FPr1F4rwdtkCJTplCs9J5KGtLsXQA&sni=tuyaus.com&flow=xtls-rprx-vision&sid=62777be9&spx=%2F#3
-vless://72edde99-deb7-424c-be90-a700cdfbb2f6@195.128.102.239:57497?type=tcp&security=reality&fp=firefox&pbk=fPUx8FzeTQPFu_7xxn15rho2durFdkF_JVn3LnTlnU0&sni=zula.ir&flow=xtls-rprx-vision&sid=34d8cceb&spx=%2F#4
-vless://0a57a2e5-e396-4a68-bde3-b78ec2e48857@195.128.102.239:47679?type=tcp&security=reality&fp=firefox&pbk=XfqRObuEP7FqIkbWj6hm2rOXn4_8ZZtAU_9lySzw1Uk&sni=discord.com&flow=xtls-rprx-vision&sid=52312825&spx=%2F#5
-vless://4aa317c1-ce4e-41f9-cd15-2aa18f2591ab@104.31.16.115:8080?security=&type=ws&path=/&host=newtest.zarepour.pro#G1
-vless://4aa317c1-ce4e-41f9-cd15-2aa18f2591ab@162.159.153.68:8080?security=&type=ws&path=/&host=newtest.zarepour.pro#G2
-vless://4aa317c1-ce4e-41f9-cd15-2aa18f2591ab@104.19.255.197:8080?security=&type=ws&path=/&host=newtest.zarepour.pro#G3
-vless://4aa317c1-ce4e-41f9-cd15-2aa18f2591ab@104.31.16.73:8080?security=&type=ws&path=/&host=newtest.zarepour.pro#G4
-vless://4aa317c1-ce4e-41f9-cd15-2aa18f2591ab@104.24.196.36:8080?security=&type=ws&path=/&host=newtest.zarepour.pro#G5
+vless://4aa317c1-ce4e-41f9-cd15-2aa18f2591ab@188.114.96.2:8080?security=&type=ws&path=/&host=newtest.zarepour.pro#G1
+vless://4aa317c1-ce4e-41f9-cd15-2aa18f2591ab@104.31.16.115:8080?security=&type=ws&path=/&host=newtest.zarepour.pro#G2
+vless://4aa317c1-ce4e-41f9-cd15-2aa18f2591ab@162.159.153.68:8080?security=&type=ws&path=/&host=newtest.zarepour.pro#G3
+vless://4aa317c1-ce4e-41f9-cd15-2aa18f2591ab@104.19.255.197:8080?security=&type=ws&path=/&host=newtest.zarepour.pro#G4
+vless://4aa317c1-ce4e-41f9-cd15-2aa18f2591ab@104.31.16.73:8080?security=&type=ws&path=/&host=newtest.zarepour.pro#G5
+vless://4aa317c1-ce4e-41f9-cd15-2aa18f2591ab@104.24.196.36:8080?security=&type=ws&path=/&host=newtest.zarepour.pro#G6
