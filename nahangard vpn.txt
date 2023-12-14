@@ -8,3 +8,7 @@ vless://02d59fad-0629-4ca3-b71a-d6c7d6c1f28e@parspack.com:8080?security=&type=ws
 vless://02d59fad-0629-4ca3-b71a-d6c7d6c1f28e@23.227.60.233:8080?security=&type=ws&path=/&host=net.cctvnews.click#G%208
 vless://02d59fad-0629-4ca3-b71a-d6c7d6c1f28e@cdnjs.com:8080?security=&type=ws&path=/&host=net.cctvnews.click#G%209
 vless://02d59fad-0629-4ca3-b71a-d6c7d6c1f28e@45.85.119.114:8080?security=&type=ws&path=/&host=net.cctvnews.click#G%2010
+vless://2e54bbb4-2edb-4a0b-e380-63c48d0da4e0@91.107.192.69:12298?type=tcp&security=reality&fp=firefox&pbk=ELN7Zwo6uUZTziyirwlUin388poF8KV2G6d7KD0YOVs&sni=speedtest.net&flow=xtls-rprx-vision&sid=51ca23d8&spx=%2F#reality1
+vless://555399b8-289e-4729-ec54-c266d2b2c016@78.46.244.78:26296?type=tcp&security=reality&fp=firefox&pbk=8djv02y6c0ZnpebsOag7zgra6SL8h0jf42eNxWlThz4&sni=discord.com&flow=xtls-rprx-vision&sid=cc1dbd9f&spx=%2Fdownload#reality2
+vless://555399b8-289e-4729-ec54-c266d2b2c016@91.107.192.69:26296?type=tcp&security=reality&fp=firefox&pbk=8djv02y6c0ZnpebsOag7zgra6SL8h0jf42eNxWlThz4&sni=discord.com&flow=xtls-rprx-vision&sid=cc1dbd9f&spx=%2Fdownload#reality3
+vless://ac2cf8b8-603f-4df8-ad93-da4ebb9f373d@91.107.192.69:36170?type=tcp&security=reality&fp=firefox&pbk=TXWvM6qHRwPA0cxFykycBVjl0foWqX0Ae7oOv7fH9XI&sni=zula.ir&flow=xtls-rprx-vision&sid=87418883&spx=%2F#reality4
