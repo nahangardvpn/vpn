@@ -3,4 +3,4 @@ vless://3e479d4e-d6a3-4df4-be2d-37cdf8f7176b@zula.ir:8080?security=&type=ws&path
 vless://3e479d4e-d6a3-4df4-be2d-37cdf8f7176b@researchgate.net:8080?security=&type=ws&path=/&host=real.mmd79.top#G3
 vless://3e479d4e-d6a3-4df4-be2d-37cdf8f7176b@104.18.5.154:8080?security=&type=ws&path=/&host=real.mmd79.top#G4
 vless://972a2551-e0ea-4194-bcff-33a31584ddf8@[2a01:4f8:c013:e46::1]:443?security=reality&sni=ir.zarepour.pro&fp=firefox&pbk=Bd6Z45stw8IhBrXgqe-HFm2FSdYMxXYGR4h8HU3qaTc&sid=61cfbe24&type=tcp&flow=xtls-rprx-vision#reality
-vless://95e97cba-449e-4144-8d96-73dd40c15ddb@*.xyzx.sbs:443?type=tcp&security=reality&fp=firefox&pbk=dvWRpPFT9DgJZi1x6q-VG9l4TMA_BqvencR1hXbzVCo&sni=*.zarairan.top&flow=xtls-rprx-vision&sid=0f3236e8&spx=%2F#new-test
+vless://95e97cba-449e-4144-8d96-73dd40c15ddb@fhfjj.xyzx.sbs:443?type=tcp&security=reality&fp=firefox&pbk=dvWRpPFT9DgJZi1x6q-VG9l4TMA_BqvencR1hXbzVCo&sni=*.zarairan.top&flow=xtls-rprx-vision&sid=0f3236e8&spx=%2F#test-nahan
