@@ -4,4 +4,4 @@ vless://e695a583-a82d-4109-b13a-a19aa177ab2a@104.18.5.154:8080?security=&type=ws
 vless://e695a583-a82d-4109-b13a-a19aa177ab2a@104.31.16.115:8080?security=&type=ws&path=/&host=dfcjkgffkdkdfg.zarepour.online#G4
 vless://e695a583-a82d-4109-b13a-a19aa177ab2a@91.195.110.123:8080?security=&type=ws&path=/&host=dfcskllddfg.zarepour.online#G5
 vless://4880dffd-cae6-435d-ae01-b96b1d69ff1c@[2a01:4f8:c012:963b::1]:443?security=reality&sni=*.zarairan.top&fp=firefox&pbk=dvWRpPFT9DgJZi1x6q-VG9l4TMA_BqvencR1hXbzVCo&sid=0f3236e8&type=tcp&flow=xtls-rprx-vision#reality%20IPV6
-vless://95e97cba-449e-4144-8d96-73dd40c15ddb@*.xyzx.sbs:443?type=tcp&security=reality&fp=firefox&pbk=dvWRpPFT9DgJZi1x6q-VG9l4TMA_BqvencR1hXbzVCo&sni=*.zarairan.top&flow=xtls-rprx-vision&sid=0f3236e8&spx=%2F#test-nahan
+vless://95e97cba-449e-4144-8d96-73dd40c15ddb@gdfddk.xyzx.sbs:443?type=tcp&security=reality&fp=firefox&pbk=dvWRpPFT9DgJZi1x6q-VG9l4TMA_BqvencR1hXbzVCo&sni=*.zarairan.top&flow=xtls-rprx-vision&sid=0f3236e8&spx=%2F#test-nahan
