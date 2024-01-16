@@ -1,2 +1,2 @@
-vless://14024ddd-2257-405c-a99f-25764f1d5b4e@128.199.146.252:443?security=&type=tcp&headerType=http&host=alibaba.ir#http%201
-vless://14024ddd-2257-405c-a99f-25764f1d5b4e@163.47.8.41:443?security=&sni=alibaba.ir&type=tcp&headerType=http&host=alibaba.ir#http%202
+vless://14024ddd-2257-405c-a99f-25764f1d5b4e@128.199.146.252:443?type=tcp&path=%2Fmmd&host=alibaba.ir&headerType=http&security=none#test1
+vless://14024ddd-2257-405c-a99f-25764f1d5b4e@128.199.146.252:443?type=tcp&path=%2Fmmd&host=alibaba.ir&headerType=http&security=none#test2
