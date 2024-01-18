@@ -1,2 +1,2 @@
-vless://14024ddd-2257-405c-a99f-25764f1d5b4e@128.199.146.252:443?type=tcp&path=%2Fmmd&host=alibaba.ir&headerType=http&security=none#test1
-vless://14024ddd-2257-405c-a99f-25764f1d5b4e@128.199.146.252:443?type=tcp&path=%2Fmmd&host=alibaba.ir&headerType=http&security=none#test2
+vless://4880dffd-cae6-435d-ae01-b96b1d69ff1c@[2a01:4f8:c012:963b::1]:443?security=reality&sni=*.zarairan.top&fp=firefox&pbk=dvWRpPFT9DgJZi1x6q-VG9l4TMA_BqvencR1hXbzVCo&sid=0f3236e8&type=tcp&flow=xtls-rprx-vision#reality-1
+vless://4880dffd-cae6-435d-ae01-b96b1d69ff1c@[2a01:4f8:c012:963b::2]:443?security=reality&sni=*.zarairan.top&fp=firefox&pbk=dvWRpPFT9DgJZi1x6q-VG9l4TMA_BqvencR1hXbzVCo&sid=0f3236e8&type=tcp&flow=xtls-rprx-vision#reality-2
