@@ -3233,19 +3233,7 @@
           "path": "/"
         },
         "network": "httpupgrade",
-        "security": "none",
-        "sockopt": {
-          "dialerProxy": "fragment",
-          "tcpKeepAliveIdle": 100,
-          "tcpMptcp": true,
-          "penetrate": true
-        }
-      },
-      "mux": {
-        "enabled": true,
-        "concurrency": 8,
-        "xudpConcurrency": 16,
-        "xudpProxyUDP443": "reject"
+        "security": "none"
       },
       "settings": {
         "vnext": [
@@ -3280,25 +3268,6 @@
         }
       },
       "tag": "block"
-    },
-    {
-      "tag": "fragment",
-      "protocol": "freedom",
-      "settings": {
-        "domainStrategy": "AsIs",
-        "fragment": {
-          "packets": "1-1",
-          "length": "1-3",
-          "interval": "1-3"
-        }
-      },
-      "streamSettings": {
-        "sockopt": {
-          "tcpKeepAliveIdle": 100,
-          "tcpMptcp": true,
-          "penetrate": true
-        }
-      }
     }
   ],
   "policy": {
@@ -3381,28 +3350,16 @@
           "fingerprint": "chrome",
           "publicKey": "LADngiaJ6k3a8cFLZr3HGWkcYnMmOAZ_MhChF66qmlM",
           "serverName": "speedtestnetparspackcompqniriribir.digikala.lat.",
-          "shortId": "d636263728923742",
+          "shortId": "d5ea681e093525",
           "show": false,
-          "spiderX": "/6eYJqBL8YFktM7t"
+          "spiderX": "/0K2px8SQkecjaK0"
         },
         "security": "reality",
-        "sockopt": {
-          "dialerProxy": "fragment",
-          "tcpKeepAliveIdle": 100,
-          "tcpMptcp": true,
-          "penetrate": true
-        },
         "tcpSettings": {
           "header": {
             "type": "none"
           }
         }
-      },
-      "mux": {
-        "enabled": true,
-        "concurrency": 8,
-        "xudpConcurrency": 16,
-        "xudpProxyUDP443": "reject"
       },
       "settings": {
         "vnext": [
@@ -3437,25 +3394,6 @@
         }
       },
       "tag": "block"
-    },
-    {
-      "tag": "fragment",
-      "protocol": "freedom",
-      "settings": {
-        "domainStrategy": "AsIs",
-        "fragment": {
-          "packets": "1-1",
-          "length": "1-3",
-          "interval": "1-3"
-        }
-      },
-      "streamSettings": {
-        "sockopt": {
-          "tcpKeepAliveIdle": 100,
-          "tcpMptcp": true,
-          "penetrate": true
-        }
-      }
     }
   ],
   "policy": {
