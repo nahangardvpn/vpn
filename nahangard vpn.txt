@@ -66,6 +66,7 @@
           },
           "wsSettings": {
             "headers": {},
+            "heartbeatPeriod": 0,
             "host": "speedtestnetparspackcompqniriribir.digikala.lat.",
             "path": "/"
           }
@@ -144,7 +145,7 @@
         "statsOutboundUplink": true
       }
     },
-    "remarks": "3-nahan-ws1",
+    "remarks": "nahan---ws1",
     "routing": {
       "domainStrategy": "AsIs",
       "rules": [
@@ -224,6 +225,7 @@
           },
           "wsSettings": {
             "headers": {},
+            "heartbeatPeriod": 0,
             "host": "speedtestnetparspackcompqniriribir.digikala.lat.",
             "path": "/"
           }
@@ -302,7 +304,7 @@
         "statsOutboundUplink": true
       }
     },
-    "remarks": "3-nahan-ws2",
+    "remarks": "nahan---ws2",
     "routing": {
       "domainStrategy": "AsIs",
       "rules": [
@@ -382,6 +384,7 @@
           },
           "wsSettings": {
             "headers": {},
+            "heartbeatPeriod": 0,
             "host": "speedtestnetparspackcompqniriribir.digikala.lat.",
             "path": "/"
           }
@@ -460,7 +463,7 @@
         "statsOutboundUplink": true
       }
     },
-    "remarks": "3-nahan-ws3",
+    "remarks": "nahan---ws3",
     "routing": {
       "domainStrategy": "AsIs",
       "rules": [
@@ -540,6 +543,7 @@
           },
           "wsSettings": {
             "headers": {},
+            "heartbeatPeriod": 0,
             "host": "speedtestnetparspackcompqniriribir.digikala.lat.",
             "path": "/"
           }
@@ -618,7 +622,7 @@
         "statsOutboundUplink": true
       }
     },
-    "remarks": "3-nahan-ws4",
+    "remarks": "nahan---ws4",
     "routing": {
       "domainStrategy": "AsIs",
       "rules": [
@@ -698,6 +702,7 @@
           },
           "wsSettings": {
             "headers": {},
+            "heartbeatPeriod": 0,
             "host": "speedtestnetparspackcompqniriribir.digikala.lat.",
             "path": "/"
           }
@@ -776,7 +781,7 @@
         "statsOutboundUplink": true
       }
     },
-    "remarks": "3-nahan-ws5",
+    "remarks": "nahan---ws5",
     "routing": {
       "domainStrategy": "AsIs",
       "rules": [
@@ -856,6 +861,7 @@
           },
           "wsSettings": {
             "headers": {},
+            "heartbeatPeriod": 0,
             "host": "speedtestnetparspackcompqniriribir.digikala.lat.",
             "path": "/"
           }
@@ -934,7 +940,7 @@
         "statsOutboundUplink": true
       }
     },
-    "remarks": "3-nahan-ws6",
+    "remarks": "nahan---ws6",
     "routing": {
       "domainStrategy": "AsIs",
       "rules": [
@@ -1014,6 +1020,7 @@
           },
           "wsSettings": {
             "headers": {},
+            "heartbeatPeriod": 0,
             "host": "speedtestnetparspackcompqniriribir.digikala.lat.",
             "path": "/"
           }
@@ -1092,7 +1099,7 @@
         "statsOutboundUplink": true
       }
     },
-    "remarks": "3-nahan-ws7",
+    "remarks": "nahan---ws7",
     "routing": {
       "domainStrategy": "AsIs",
       "rules": [
@@ -1172,6 +1179,7 @@
           },
           "wsSettings": {
             "headers": {},
+            "heartbeatPeriod": 0,
             "host": "speedtestnetparspackcompqniriribir.digikala.lat.",
             "path": "/"
           }
@@ -1250,7 +1258,7 @@
         "statsOutboundUplink": true
       }
     },
-    "remarks": "3-nahan-ws8",
+    "remarks": "nahan---ws8",
     "routing": {
       "domainStrategy": "AsIs",
       "rules": [
@@ -1330,6 +1338,7 @@
           },
           "wsSettings": {
             "headers": {},
+            "heartbeatPeriod": 0,
             "host": "speedtestnetparspackcompqniriribir.digikala.lat.",
             "path": "/"
           }
@@ -1408,7 +1417,7 @@
         "statsOutboundUplink": true
       }
     },
-    "remarks": "3-nahan-ws9",
+    "remarks": "nahan---ws9",
     "routing": {
       "domainStrategy": "AsIs",
       "rules": [
@@ -1488,6 +1497,7 @@
           },
           "wsSettings": {
             "headers": {},
+            "heartbeatPeriod": 0,
             "host": "speedtestnetparspackcompqniriribir.digikala.lat.",
             "path": "/"
           }
@@ -1566,7 +1576,7 @@
         "statsOutboundUplink": true
       }
     },
-    "remarks": "3-nahan-ws10",
+    "remarks": "nahan---ws10",
     "routing": {
       "domainStrategy": "AsIs",
       "rules": [
@@ -1646,6 +1656,7 @@
           },
           "wsSettings": {
             "headers": {},
+            "heartbeatPeriod": 0,
             "host": "speedtestnetparspackcompqniriribir.digikala.lat.",
             "path": "/"
           }
@@ -1724,7 +1735,7 @@
         "statsOutboundUplink": true
       }
     },
-    "remarks": "3-nahan-ws11",
+    "remarks": "nahan---ws11",
     "routing": {
       "domainStrategy": "AsIs",
       "rules": [
@@ -1804,6 +1815,7 @@
           },
           "wsSettings": {
             "headers": {},
+            "heartbeatPeriod": 0,
             "host": "speedtestnetparspackcompqniriribir.digikala.lat.",
             "path": "/"
           }
@@ -1882,7 +1894,7 @@
         "statsOutboundUplink": true
       }
     },
-    "remarks": "3-nahan-ws12",
+    "remarks": "nahan---ws12",
     "routing": {
       "domainStrategy": "AsIs",
       "rules": [
@@ -1962,6 +1974,7 @@
           },
           "wsSettings": {
             "headers": {},
+            "heartbeatPeriod": 0,
             "host": "speedtestnetparspackcompqniriribir.digikala.lat.",
             "path": "/"
           }
@@ -2040,7 +2053,7 @@
         "statsOutboundUplink": true
       }
     },
-    "remarks": "3-nahan-ws13",
+    "remarks": "nahan---ws13",
     "routing": {
       "domainStrategy": "AsIs",
       "rules": [
@@ -2120,6 +2133,7 @@
           },
           "wsSettings": {
             "headers": {},
+            "heartbeatPeriod": 0,
             "host": "speedtestnetparspackcompqniriribir.digikala.lat.",
             "path": "/"
           }
@@ -2198,7 +2212,7 @@
         "statsOutboundUplink": true
       }
     },
-    "remarks": "3-nahan-ws14",
+    "remarks": "nahan---ws14",
     "routing": {
       "domainStrategy": "AsIs",
       "rules": [
@@ -2278,6 +2292,7 @@
           },
           "wsSettings": {
             "headers": {},
+            "heartbeatPeriod": 0,
             "host": "speedtestnetparspackcompqniriribir.digikala.lat.",
             "path": "/"
           }
@@ -2356,7 +2371,7 @@
         "statsOutboundUplink": true
       }
     },
-    "remarks": "3-nahan-ws15",
+    "remarks": "nahan---ws15",
     "routing": {
       "domainStrategy": "AsIs",
       "rules": [
@@ -2436,6 +2451,7 @@
           },
           "wsSettings": {
             "headers": {},
+            "heartbeatPeriod": 0,
             "host": "speedtestnetparspackcompqniriribir.digikala.lat.",
             "path": "/"
           }
@@ -2514,7 +2530,7 @@
         "statsOutboundUplink": true
       }
     },
-    "remarks": "3-nahan-ws16",
+    "remarks": "nahan---ws16",
     "routing": {
       "domainStrategy": "AsIs",
       "rules": [
@@ -2526,5 +2542,947 @@
       ]
     },
     "stats": {}
-  }
+  },
+  {
+    "dns": {
+      "queryStrategy": "UseIP",
+      "servers": [
+        {
+          "address": "8.8.8.8",
+          "skipFallback": false
+        }
+      ],
+      "tag": "dns_out"
+    },
+    "inbounds": [
+      {
+        "port": 10808,
+        "protocol": "socks",
+        "settings": {
+          "auth": "noauth",
+          "udp": true,
+          "userLevel": 8
+        },
+        "sniffing": {
+          "destOverride": [
+            "http",
+            "tls",
+            "quic",
+            "fakedns"
+          ],
+          "enabled": true
+        },
+        "tag": "socks"
+      },
+      {
+        "port": 10809,
+        "protocol": "http",
+        "settings": {
+          "userLevel": 8
+        },
+        "tag": "http"
+      }
+    ],
+    "log": {
+      "loglevel": "warning"
+    },
+    "outbounds": [
+      {
+        "protocol": "vless",
+        "tag": "proxy",
+        "streamSettings": {
+          "network": "ws",
+          "security": "tls",
+          "sockopt": {
+            "dialerProxy": "fragment",
+            "tcpKeepAliveIdle": 100,
+            "tcpMptcp": true,
+            "penetrate": true
+          },
+          "tlsSettings": {
+            "allowInsecure": false,
+            "alpn": [
+              "h2",
+              "http/1.1"
+            ],
+            "fingerprint": "chrome",
+            "serverName": "speedtestnetparspackcompqniriribir.digikala.lat."
+          },
+          "wsSettings": {
+            "headers": {},
+            "heartbeatPeriod": 0,
+            "host": "speedtestnetparspackcompqniriribir.digikala.lat.",
+            "path": "/"
+          }
+        },
+        "mux": {
+          "enabled": true,
+          "concurrency": 8,
+          "xudpConcurrency": 16,
+          "xudpProxyUDP443": "reject"
+        },
+        "settings": {
+          "vnext": [
+            {
+              "address": "zula.ir",
+              "port": 443,
+              "users": [
+                {
+                  "encryption": "none",
+                  "id": "03e4265a-c3b1-4768-b898-95cdcc4ff13e",
+                  "level": 8
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "protocol": "freedom",
+        "settings": {
+          "domainStrategy": "AsIs",
+          "noises": [],
+          "redirect": ""
+        },
+        "tag": "direct"
+      },
+      {
+        "protocol": "blackhole",
+        "settings": {
+          "response": {
+            "type": "http"
+          }
+        },
+        "tag": "block"
+      },
+      {
+        "tag": "fragment",
+        "protocol": "freedom",
+        "settings": {
+          "domainStrategy": "AsIs",
+          "fragment": {
+            "packets": "1-1",
+            "length": "1-3",
+            "interval": "1-3"
+          }
+        },
+        "streamSettings": {
+          "sockopt": {
+            "tcpKeepAliveIdle": 100,
+            "tcpMptcp": true,
+            "penetrate": true
+          }
+        }
+      }
+    ],
+    "policy": {
+      "levels": {
+        "8": {
+          "connIdle": 300,
+          "downlinkOnly": 1,
+          "handshake": 4,
+          "uplinkOnly": 1
+        }
+      },
+      "system": {
+        "statsOutboundDownlink": true,
+        "statsOutboundUplink": true
+      }
+    },
+    "remarks": "nahan---ws17",
+    "routing": {
+      "domainStrategy": "AsIs",
+      "rules": [
+        {
+          "network": "tcp,udp",
+          "outboundTag": "proxy",
+          "type": "field"
+        }
+      ]
+    },
+    "stats": {}
+  },
+  {
+    "dns": {
+      "queryStrategy": "UseIP",
+      "servers": [
+        {
+          "address": "8.8.8.8",
+          "skipFallback": false
+        }
+      ],
+      "tag": "dns_out"
+    },
+    "inbounds": [
+      {
+        "port": 10808,
+        "protocol": "socks",
+        "settings": {
+          "auth": "noauth",
+          "udp": true,
+          "userLevel": 8
+        },
+        "sniffing": {
+          "destOverride": [
+            "http",
+            "tls",
+            "quic",
+            "fakedns"
+          ],
+          "enabled": true
+        },
+        "tag": "socks"
+      },
+      {
+        "port": 10809,
+        "protocol": "http",
+        "settings": {
+          "userLevel": 8
+        },
+        "tag": "http"
+      }
+    ],
+    "log": {
+      "loglevel": "warning"
+    },
+    "outbounds": [
+      {
+        "protocol": "vless",
+        "tag": "proxy",
+        "streamSettings": {
+          "network": "ws",
+          "security": "tls",
+          "sockopt": {
+            "dialerProxy": "fragment",
+            "tcpKeepAliveIdle": 100,
+            "tcpMptcp": true,
+            "penetrate": true
+          },
+          "tlsSettings": {
+            "allowInsecure": false,
+            "alpn": [
+              "h2",
+              "http/1.1"
+            ],
+            "fingerprint": "chrome",
+            "serverName": "speedtestnetparspackcompqniriribir.digikala.lat."
+          },
+          "wsSettings": {
+            "headers": {},
+            "heartbeatPeriod": 0,
+            "host": "speedtestnetparspackcompqniriribir.digikala.lat.",
+            "path": "/"
+          }
+        },
+        "mux": {
+          "enabled": true,
+          "concurrency": 8,
+          "xudpConcurrency": 16,
+          "xudpProxyUDP443": "reject"
+        },
+        "settings": {
+          "vnext": [
+            {
+              "address": "162.159.140.220",
+              "port": 443,
+              "users": [
+                {
+                  "encryption": "none",
+                  "id": "03e4265a-c3b1-4768-b898-95cdcc4ff13e",
+                  "level": 8
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "protocol": "freedom",
+        "settings": {
+          "domainStrategy": "AsIs",
+          "noises": [],
+          "redirect": ""
+        },
+        "tag": "direct"
+      },
+      {
+        "protocol": "blackhole",
+        "settings": {
+          "response": {
+            "type": "http"
+          }
+        },
+        "tag": "block"
+      },
+      {
+        "tag": "fragment",
+        "protocol": "freedom",
+        "settings": {
+          "domainStrategy": "AsIs",
+          "fragment": {
+            "packets": "1-1",
+            "length": "1-3",
+            "interval": "1-3"
+          }
+        },
+        "streamSettings": {
+          "sockopt": {
+            "tcpKeepAliveIdle": 100,
+            "tcpMptcp": true,
+            "penetrate": true
+          }
+        }
+      }
+    ],
+    "policy": {
+      "levels": {
+        "8": {
+          "connIdle": 300,
+          "downlinkOnly": 1,
+          "handshake": 4,
+          "uplinkOnly": 1
+        }
+      },
+      "system": {
+        "statsOutboundDownlink": true,
+        "statsOutboundUplink": true
+      }
+    },
+    "remarks": "nahan---ws18",
+    "routing": {
+      "domainStrategy": "AsIs",
+      "rules": [
+        {
+          "network": "tcp,udp",
+          "outboundTag": "proxy",
+          "type": "field"
+        }
+      ]
+    },
+    "stats": {}
+  },
+  {
+    "dns": {
+      "queryStrategy": "UseIP",
+      "servers": [
+        {
+          "address": "8.8.8.8",
+          "skipFallback": false
+        }
+      ],
+      "tag": "dns_out"
+    },
+    "inbounds": [
+      {
+        "port": 10808,
+        "protocol": "socks",
+        "settings": {
+          "auth": "noauth",
+          "udp": true,
+          "userLevel": 8
+        },
+        "sniffing": {
+          "destOverride": [
+            "http",
+            "tls",
+            "quic",
+            "fakedns"
+          ],
+          "enabled": true
+        },
+        "tag": "socks"
+      },
+      {
+        "port": 10809,
+        "protocol": "http",
+        "settings": {
+          "userLevel": 8
+        },
+        "tag": "http"
+      }
+    ],
+    "log": {
+      "loglevel": "warning"
+    },
+    "outbounds": [
+      {
+        "protocol": "vless",
+        "tag": "proxy",
+        "streamSettings": {
+          "network": "ws",
+          "security": "tls",
+          "sockopt": {
+            "dialerProxy": "fragment",
+            "tcpKeepAliveIdle": 100,
+            "tcpMptcp": true,
+            "penetrate": true
+          },
+          "tlsSettings": {
+            "allowInsecure": false,
+            "alpn": [
+              "h2",
+              "http/1.1"
+            ],
+            "fingerprint": "chrome",
+            "serverName": "speedtestnetparspackcompqniriribir.digikala.lat."
+          },
+          "wsSettings": {
+            "headers": {},
+            "heartbeatPeriod": 0,
+            "host": "speedtestnetparspackcompqniriribir.digikala.lat.",
+            "path": "/"
+          }
+        },
+        "mux": {
+          "enabled": true,
+          "concurrency": 8,
+          "xudpConcurrency": 16,
+          "xudpProxyUDP443": "reject"
+        },
+        "settings": {
+          "vnext": [
+            {
+              "address": "173.245.59.81",
+              "port": 443,
+              "users": [
+                {
+                  "encryption": "none",
+                  "id": "03e4265a-c3b1-4768-b898-95cdcc4ff13e",
+                  "level": 8
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "protocol": "freedom",
+        "settings": {
+          "domainStrategy": "AsIs",
+          "noises": [],
+          "redirect": ""
+        },
+        "tag": "direct"
+      },
+      {
+        "protocol": "blackhole",
+        "settings": {
+          "response": {
+            "type": "http"
+          }
+        },
+        "tag": "block"
+      },
+      {
+        "tag": "fragment",
+        "protocol": "freedom",
+        "settings": {
+          "domainStrategy": "AsIs",
+          "fragment": {
+            "packets": "1-1",
+            "length": "1-3",
+            "interval": "1-3"
+          }
+        },
+        "streamSettings": {
+          "sockopt": {
+            "tcpKeepAliveIdle": 100,
+            "tcpMptcp": true,
+            "penetrate": true
+          }
+        }
+      }
+    ],
+    "policy": {
+      "levels": {
+        "8": {
+          "connIdle": 300,
+          "downlinkOnly": 1,
+          "handshake": 4,
+          "uplinkOnly": 1
+        }
+      },
+      "system": {
+        "statsOutboundDownlink": true,
+        "statsOutboundUplink": true
+      }
+    },
+    "remarks": "nahan---ws19",
+    "routing": {
+      "domainStrategy": "AsIs",
+      "rules": [
+        {
+          "network": "tcp,udp",
+          "outboundTag": "proxy",
+          "type": "field"
+        }
+      ]
+    },
+    "stats": {}
+  },
+  {
+    "dns": {
+      "queryStrategy": "UseIP",
+      "servers": [
+        {
+          "address": "8.8.8.8",
+          "skipFallback": false
+        }
+      ],
+      "tag": "dns_out"
+    },
+    "inbounds": [
+      {
+        "port": 10808,
+        "protocol": "socks",
+        "settings": {
+          "auth": "noauth",
+          "udp": true,
+          "userLevel": 8
+        },
+        "sniffing": {
+          "destOverride": [
+            "http",
+            "tls",
+            "quic",
+            "fakedns"
+          ],
+          "enabled": true
+        },
+        "tag": "socks"
+      },
+      {
+        "port": 10809,
+        "protocol": "http",
+        "settings": {
+          "userLevel": 8
+        },
+        "tag": "http"
+      }
+    ],
+    "log": {
+      "loglevel": "warning"
+    },
+    "outbounds": [
+      {
+        "protocol": "vless",
+        "tag": "proxy",
+        "streamSettings": {
+          "network": "ws",
+          "security": "tls",
+          "sockopt": {
+            "dialerProxy": "fragment",
+            "tcpKeepAliveIdle": 100,
+            "tcpMptcp": true,
+            "penetrate": true
+          },
+          "tlsSettings": {
+            "allowInsecure": false,
+            "alpn": [
+              "h2",
+              "http/1.1"
+            ],
+            "fingerprint": "chrome",
+            "serverName": "speedtestnetparspackcompqniriribir.digikala.lat."
+          },
+          "wsSettings": {
+            "headers": {},
+            "heartbeatPeriod": 0,
+            "host": "speedtestnetparspackcompqniriribir.digikala.lat.",
+            "path": "/"
+          }
+        },
+        "mux": {
+          "enabled": true,
+          "concurrency": 8,
+          "xudpConcurrency": 16,
+          "xudpProxyUDP443": "reject"
+        },
+        "settings": {
+          "vnext": [
+            {
+              "address": "researchgate.net",
+              "port": 443,
+              "users": [
+                {
+                  "encryption": "none",
+                  "id": "03e4265a-c3b1-4768-b898-95cdcc4ff13e",
+                  "level": 8
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "protocol": "freedom",
+        "settings": {
+          "domainStrategy": "AsIs",
+          "noises": [],
+          "redirect": ""
+        },
+        "tag": "direct"
+      },
+      {
+        "protocol": "blackhole",
+        "settings": {
+          "response": {
+            "type": "http"
+          }
+        },
+        "tag": "block"
+      },
+      {
+        "tag": "fragment",
+        "protocol": "freedom",
+        "settings": {
+          "domainStrategy": "AsIs",
+          "fragment": {
+            "packets": "1-1",
+            "length": "1-3",
+            "interval": "1-3"
+          }
+        },
+        "streamSettings": {
+          "sockopt": {
+            "tcpKeepAliveIdle": 100,
+            "tcpMptcp": true,
+            "penetrate": true
+          }
+        }
+      }
+    ],
+    "policy": {
+      "levels": {
+        "8": {
+          "connIdle": 300,
+          "downlinkOnly": 1,
+          "handshake": 4,
+          "uplinkOnly": 1
+        }
+      },
+      "system": {
+        "statsOutboundDownlink": true,
+        "statsOutboundUplink": true
+      }
+    },
+    "remarks": "nahan---ws20",
+    "routing": {
+      "domainStrategy": "AsIs",
+      "rules": [
+        {
+          "network": "tcp,udp",
+          "outboundTag": "proxy",
+          "type": "field"
+        }
+      ]
+    },
+    "stats": {}
+  },
+  {
+  "dns": {
+    "queryStrategy": "UseIP",
+    "servers": [
+      {
+        "address": "8.8.8.8",
+        "skipFallback": false
+      }
+    ],
+    "tag": "dns_out"
+  },
+  "inbounds": [
+    {
+      "port": 10808,
+      "protocol": "socks",
+      "settings": {
+        "auth": "noauth",
+        "udp": true,
+        "userLevel": 8
+      },
+      "sniffing": {
+        "destOverride": [
+          "http",
+          "tls",
+          "quic",
+          "fakedns"
+        ],
+        "enabled": true
+      },
+      "tag": "socks"
+    },
+    {
+      "port": 10809,
+      "protocol": "http",
+      "settings": {
+        "userLevel": 8
+      },
+      "tag": "http"
+    }
+  ],
+  "log": {
+    "loglevel": "warning"
+  },
+  "outbounds": [
+    {
+      "protocol": "vless",
+      "tag": "proxy",
+      "streamSettings": {
+        "httpupgradeSettings": {
+          "headers": {},
+          "host": "",
+          "path": "/"
+        },
+        "network": "httpupgrade",
+        "security": "none",
+        "sockopt": {
+          "dialerProxy": "fragment",
+          "tcpKeepAliveIdle": 100,
+          "tcpMptcp": true,
+          "penetrate": true
+        }
+      },
+      "mux": {
+        "enabled": true,
+        "concurrency": 8,
+        "xudpConcurrency": 16,
+        "xudpProxyUDP443": "reject"
+      },
+      "settings": {
+        "vnext": [
+          {
+            "address": "[2002:c380:66ef::1]",
+            "port": 8888,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "0308b228-7df5-4ff8-9fbf-fc3265dac78c",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "protocol": "freedom",
+      "settings": {
+        "domainStrategy": "AsIs",
+        "noises": [],
+        "redirect": ""
+      },
+      "tag": "direct"
+    },
+    {
+      "protocol": "blackhole",
+      "settings": {
+        "response": {
+          "type": "http"
+        }
+      },
+      "tag": "block"
+    },
+    {
+      "tag": "fragment",
+      "protocol": "freedom",
+      "settings": {
+        "domainStrategy": "AsIs",
+        "fragment": {
+          "packets": "1-1",
+          "length": "1-3",
+          "interval": "1-3"
+        }
+      },
+      "streamSettings": {
+        "sockopt": {
+          "tcpKeepAliveIdle": 100,
+          "tcpMptcp": true,
+          "penetrate": true
+        }
+      }
+    }
+  ],
+  "policy": {
+    "levels": {
+      "8": {
+        "connIdle": 300,
+        "downlinkOnly": 1,
+        "handshake": 4,
+        "uplinkOnly": 1
+      }
+    },
+    "system": {
+      "statsOutboundDownlink": true,
+      "statsOutboundUplink": true
+    }
+  },
+  "remarks": "HTTP-آیپی وی 6 را فعال کنید",
+  "routing": {
+    "domainStrategy": "AsIs",
+    "rules": [
+      {
+        "network": "tcp,udp",
+        "outboundTag": "proxy",
+        "type": "field"
+      }
+    ]
+  },
+  "stats": {}
+},
+{
+  "dns": {
+    "queryStrategy": "UseIP",
+    "servers": [
+      {
+        "address": "8.8.8.8",
+        "skipFallback": false
+      }
+    ],
+    "tag": "dns_out"
+  },
+  "inbounds": [
+    {
+      "port": 10808,
+      "protocol": "socks",
+      "settings": {
+        "auth": "noauth",
+        "udp": true,
+        "userLevel": 8
+      },
+      "sniffing": {
+        "destOverride": [
+          "http",
+          "tls",
+          "quic",
+          "fakedns"
+        ],
+        "enabled": true
+      },
+      "tag": "socks"
+    },
+    {
+      "port": 10809,
+      "protocol": "http",
+      "settings": {
+        "userLevel": 8
+      },
+      "tag": "http"
+    }
+  ],
+  "log": {
+    "loglevel": "warning"
+  },
+  "outbounds": [
+    {
+      "protocol": "vless",
+      "tag": "proxy",
+      "streamSettings": {
+        "network": "tcp",
+        "realitySettings": {
+          "fingerprint": "chrome",
+          "publicKey": "LADngiaJ6k3a8cFLZr3HGWkcYnMmOAZ_MhChF66qmlM",
+          "serverName": "speedtestnetparspackcompqniriribir.digikala.lat.",
+          "shortId": "d636263728923742",
+          "show": false,
+          "spiderX": "/6eYJqBL8YFktM7t"
+        },
+        "security": "reality",
+        "sockopt": {
+          "dialerProxy": "fragment",
+          "tcpKeepAliveIdle": 100,
+          "tcpMptcp": true,
+          "penetrate": true
+        },
+        "tcpSettings": {
+          "header": {
+            "type": "none"
+          }
+        }
+      },
+      "mux": {
+        "enabled": true,
+        "concurrency": 8,
+        "xudpConcurrency": 16,
+        "xudpProxyUDP443": "reject"
+      },
+      "settings": {
+        "vnext": [
+          {
+            "address": "speedtestnetparspackcompqniriribir.digikala.lat",
+            "port": 26656,
+            "users": [
+              {
+                "encryption": "none",
+                "id": "509e5d10-2ac4-4fd5-9c19-5b70e404fa72",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "protocol": "freedom",
+      "settings": {
+        "domainStrategy": "AsIs",
+        "noises": [],
+        "redirect": ""
+      },
+      "tag": "direct"
+    },
+    {
+      "protocol": "blackhole",
+      "settings": {
+        "response": {
+          "type": "http"
+        }
+      },
+      "tag": "block"
+    },
+    {
+      "tag": "fragment",
+      "protocol": "freedom",
+      "settings": {
+        "domainStrategy": "AsIs",
+        "fragment": {
+          "packets": "1-1",
+          "length": "1-3",
+          "interval": "1-3"
+        }
+      },
+      "streamSettings": {
+        "sockopt": {
+          "tcpKeepAliveIdle": 100,
+          "tcpMptcp": true,
+          "penetrate": true
+        }
+      }
+    }
+  ],
+  "policy": {
+    "levels": {
+      "8": {
+        "connIdle": 300,
+        "downlinkOnly": 1,
+        "handshake": 4,
+        "uplinkOnly": 1
+      }
+    },
+    "system": {
+      "statsOutboundDownlink": true,
+      "statsOutboundUplink": true
+    }
+  },
+  "remarks": "reality-آیپی ورژن 6 را فعال کنید",
+  "routing": {
+    "domainStrategy": "AsIs",
+    "rules": [
+      {
+        "network": "tcp,udp",
+        "outboundTag": "proxy",
+        "type": "field"
+      }
+    ]
+  },
+  "stats": {}
+}
 ]
