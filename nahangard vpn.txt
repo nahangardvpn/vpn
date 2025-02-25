@@ -3327,8 +3327,8 @@
     ]
   },
   "stats": {}
-},
-{
+  },
+  {
   "dns": {
     "queryStrategy": "UseIP",
     "servers": [
@@ -3484,5 +3484,5 @@
     ]
   },
   "stats": {}
-}
+  }
 ]
